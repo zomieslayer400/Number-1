@@ -1,0 +1,6 @@
+dim t,n,k as string
+t=6
+For i=1 to T
+N=t*7
+end
+
